@@ -473,7 +473,7 @@ header .container .bars:hover+ul {
 /* newsletter section  */
 .newsletter {
   background-color: cadetblue;
-  background-image: url(/images/slide-02.jpg);
+  background-image: url(images/slide-02.jpg);
   background-size: cover;
   padding-top: var(--padding-top);
   padding-bottom: var(--padding-bottom);
