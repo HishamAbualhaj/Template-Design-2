@@ -198,7 +198,7 @@ header .container .bars:hover+ul {
 
 /* landing page  */
 .landing-page {
-  background-color: cadetblue;
+  background-color: black;
   height: calc(100vh - 45px);
   background-size: cover;
   display: flex;
