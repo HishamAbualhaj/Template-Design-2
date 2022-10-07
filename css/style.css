@@ -198,12 +198,13 @@ header .container .bars:hover+ul {
 
 /* landing page  */
 .landing-page {
-  background-color: black;
+  background-color: cadetblue;
   height: calc(100vh - 45px);
   background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
+ 
 }
 
 .landing-page .content {
@@ -471,6 +472,7 @@ header .container .bars:hover+ul {
 
 /* newsletter section  */
 .newsletter {
+  background-color: cadetblue;
   background-image: url(/images/slide-02.jpg);
   background-size: cover;
   padding-top: var(--padding-top);
@@ -638,6 +640,7 @@ header .container .bars:hover+ul {
 
 /* testimonials  */
 .testimonials {
+  background-color: cadetblue;
   padding-top: var(--padding-top);
   padding-bottom: var(--padding-bottom);
   background-image: url(/images/slide-03.jpg);
