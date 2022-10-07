@@ -198,7 +198,8 @@ header .container .bars:hover+ul {
 
 /* landing page  */
 .landing-page {
-  background-image: url(/images/slide-01.jpg);
+  background-image: url(images/slide-01.jpg);
+  background-color: cadetblue;
   height: calc(100vh - 45px);
   background-size: cover;
   display: flex;
